@@ -13,15 +13,15 @@ In the project directory, there are two folders:
 2. **client**- the frontend side is handled here, we'll need to run it as well.
 
 When running the App for the first time, we'll need to install the relevant packages on each side:
-### ` path-to-TennisBlogApp\api npm install`
+ ` path-to-TennisBlogApp\api npm install`
 and 
-### ` path-to-TennisBlogApp\client npm install`
+ ` path-to-TennisBlogApp\client npm install`
 
 ---
 In order to run each side:
-### ` path-to-TennisBlogApp\api npm start`
+ ` path-to-TennisBlogApp\api npm start`
 and
-### ` path-to-TennisBlogApp\client npm start`
+ ` path-to-TennisBlogApp\client npm start`
 
   
 
@@ -31,10 +31,13 @@ and
 - Write and save a new blog post
 - Edit a blog post that you published
 - Map posts to different catagories
+
+
 ## What's next
 - Support mobile responsiveness
 - Add implementation to more catagories
 - Support all browsers (Microsoft Edge visibility is partially missing)
+
 
 ## Notes
 This project is based on this tutorial: https://www.youtube.com/watch?v=0aPLk2e2Z3g&ab_channel=LamaDev
