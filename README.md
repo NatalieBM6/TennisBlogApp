@@ -13,15 +13,13 @@ In the project directory, there are two folders:
 2. **client**- the frontend side is handled here, we'll need to run it as well.
 
 ### When running the App for the first time, we'll need to install the relevant packages on each side:
--` path-to-TennisBlogApp\api npm install`
-and 
--` path-to-TennisBlogApp\client npm install`
+1. ` path-to-TennisBlogApp\api npm install`
+2. ` path-to-TennisBlogApp\client npm install`
 
 ---
 ### In order to run each side:
--` path-to-TennisBlogApp\api npm start`
-and
--` path-to-TennisBlogApp\client npm start`
+1. ` path-to-TennisBlogApp\api npm start`
+2. ` path-to-TennisBlogApp\client npm start`
 
   
 
