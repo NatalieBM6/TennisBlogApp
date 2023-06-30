@@ -9,7 +9,7 @@ This project uses React, Node.js and MySQL.
 
 ## How to run the project
 In the project directory, there are two folders:
-1. **api**- the bachend side is handled here, we'll need to run the server.
+1. **api**- the backend side is handled here, we'll need to run the server.
 2. **client**- the frontend side is handled here, we'll need to run it as well.
 
 ### When running the App for the first time, we'll need to install the relevant packages on each side:
